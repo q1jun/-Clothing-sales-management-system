@@ -1,4 +1,4 @@
-# -Clothing-sales-management-system
+# Clothing-sales-management-system
 C语言命令行简易服装销售管理系统
 
 ### 服装销售系统的设计与实现
